@@ -35,6 +35,9 @@ DishyaNirya/
 2. Open the project folder.
 3. Run `index.html` in your browser.
 
+## Live Demo
+🔗 https://SandhyaChokkapu.github.io/DishyaNirya/
+
 ## 🎯 Future Enhancements
 - Integrate real AR navigation
 - GPS/Indoor positioning support
