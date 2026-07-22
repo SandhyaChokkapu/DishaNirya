@@ -36,7 +36,7 @@ DishyaNirya/
 3. Run `index.html` in your browser.
 
 ## Live Demo
-🔗 https://SandhyaChokkapu.github.io/DishyaNirya/
+🔗 https://sandhyachokkapu.github.io/DishaNirya/
 
 ## 🎯 Future Enhancements
 - Integrate real AR navigation
